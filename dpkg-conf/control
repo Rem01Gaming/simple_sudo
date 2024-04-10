@@ -1,0 +1,8 @@
+Package: simple-sudo
+Architecture: all
+Maintainer: Rem01Gaming
+Installed-Size: 4000
+Version: 1.0.0
+Homepage: https://github.com/Rem01Gaming/simple_sudo
+Conflicts: tsu
+Description: Lite version of tsu, very minimal sudo
